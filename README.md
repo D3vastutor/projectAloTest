@@ -1,2 +1,2 @@
 # projectAloTest
-Project untuk tes pada AloDokter
+Project untuk tes pada AloTest
