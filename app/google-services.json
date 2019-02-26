@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784950949954",
+    "firebase_url": "https://alotest-d2e44.firebaseio.com",
+    "project_id": "alotest-d2e44",
+    "storage_bucket": "alotest-d2e44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784950949954:android:7dbad27c3ef6cadd",
+        "android_client_info": {
+          "package_name": "com.laptop.machtal.alotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784950949954-851q08mqiod5ec60lnb93lqh0j9m3ava.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laptop.machtal.alotest",
+            "certificate_hash": "e04faecaa356f753eef07bbb32d0012fa523a53a"
+          }
+        },
+        {
+          "client_id": "784950949954-kse7ktd3uliin3kqnn8no8k0nv1mcab4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmlH2X6KEv2ArKu4o0VTJY3dGHQBI_H8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784950949954-kse7ktd3uliin3kqnn8no8k0nv1mcab4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
